@@ -1,0 +1,1 @@
+print('Sam Levenson once said, "Don\'t watch the clock; do what it does. Keep going."')
